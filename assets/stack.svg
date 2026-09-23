@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="100" viewBox="0 0 1280 100" role="img" aria-labelledby="title">
+<title id="title">TypeScript · React · Node.js · Lua · TensorFlow.js · Web Audio</title>
+<g fill="#111c29" stroke="#304256"><rect x="1" y="1" width="198" height="98" rx="14"/><rect x="217" y="1" width="190" height="98" rx="14"/><rect x="425" y="1" width="190" height="98" rx="14"/><rect x="633" y="1" width="160" height="98" rx="14"/><rect x="811" y="1" width="242" height="98" rx="14"/><rect x="1071" y="1" width="208" height="98" rx="14"/></g>
+<g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle" font-size="21" font-weight="600" fill="#e1ebf7"><text x="100" y="44">TypeScript</text><text x="312" y="44">React</text><text x="520" y="44">Node.js</text><text x="713" y="44">Lua</text><text x="932" y="44">TensorFlow.js</text><text x="1175" y="44">Web Audio</text></g>
+<g font-family="Consolas,monospace" text-anchor="middle" font-size="13" letter-spacing="2"><text x="100" y="73" fill="#83bbfc">LENGUAJE</text><text x="312" y="73" fill="#7ce4f3">INTERFAZ</text><text x="520" y="73" fill="#8edaa0">RUNTIME</text><text x="713" y="73" fill="#b4b0ff">STUDIO</text><text x="932" y="73" fill="#ffac79">VISIÓN / IA</text><text x="1175" y="73" fill="#66efd7">SONIDO 3D</text></g>
+</svg>
