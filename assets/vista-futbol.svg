@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="240" viewBox="0 0 1280 240" role="img" aria-labelledby="title">
+<title id="title">VistaFútbol — Otra forma de encontrar el balón</title>
+<rect x="1" y="1" width="1278" height="238" rx="20" fill="#1b1d27" stroke="#4e3a35"/>
+<path d="M2 36v168" stroke="#ffac79" stroke-width="4"/>
+<text x="42" y="49" font-family="Consolas,monospace" font-size="14" letter-spacing="3" fill="#ffac79">02 / ACCESSIBLE EXPERIENCES</text>
+<text x="40" y="108" font-family="Segoe UI,Arial,sans-serif" font-size="43" font-weight="700" fill="#f0f6ff">VistaFútbol</text>
+<text x="42" y="153" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#bfc6d6">Otra forma de encontrar el balón.</text>
+<text x="42" y="202" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="1.5" fill="#ffac79">VISIÓN POR COMPUTADORA + AUDIO ESPACIAL</text>
+<g transform="translate(981 119)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<ellipse rx="163" ry="81" stroke="#3c3541"/><ellipse rx="117" ry="59" stroke="#51404a"/>
+<circle r="43" fill="#302831" stroke="#ffac79" stroke-width="2"/>
+<path d="m0-19 18 13-7 21h-22l-7-21Zm0-19v19m-36 7 18 6m-6 41 13-20m35 20L11 15M36-12 18-6" stroke="#ffba91" stroke-width="2"/>
+<path d="M-88-16v32m-13-47v62m-13-48v34m202-33v32m13-47v62m13-48v34" stroke="#ffac79" stroke-width="4"/>
+<circle cx="-163" r="5" fill="#66efd7" stroke="none"/><circle cx="163" r="5" fill="#ffac79" stroke="none"/>
+</g></svg>
