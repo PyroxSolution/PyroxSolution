@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-labelledby="title desc">
+<title id="title">PyroxSolutions</title><desc id="desc">De la idea a lo que sigue. IA, herramientas para creadores y web accesible.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111c2c"/><stop offset="1" stop-color="#090f18"/></linearGradient>
+<linearGradient id="accent" x2="1" y2="1"><stop stop-color="#66efd7"/><stop offset="1" stop-color="#439afa"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#233247" stroke-width="1" opacity=".5"/></pattern>
+</defs>
+<rect x="1" y="1" width="1278" height="458" rx="24" fill="url(#bg)" stroke="#2b3b4e"/>
+<path d="M760 1h495q24 0 24 24v410q0 24-24 24H760Z" fill="url(#grid)"/>
+<path d="M64 66h36" stroke="#66efd7" stroke-width="4"/>
+<text x="116" y="73" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="4" fill="#c0cfdf">CODE. CREATE. CONNECT.</text>
+<text x="60" y="162" font-family="Segoe UI,Arial,sans-serif" font-size="70" font-weight="700" letter-spacing="-3" fill="#f1f6ff">Pyrox<tspan fill="#66efd7">Solutions</tspan></text>
+<text x="64" y="222" font-family="Segoe UI,Arial,sans-serif" font-size="32" fill="#d9e3ee">De la idea a lo que sigue.</text>
+<text x="64" y="270" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#93a8bf">IA · Herramientas para creadores · Web accesible</text>
+<rect x="64" y="331" width="135" height="37" rx="18" fill="#173632" stroke="#2e6258"/>
+<text x="131" y="355" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#82f4df">CONSTRUIR</text>
+<rect x="211" y="331" width="129" height="37" rx="18" fill="#142940" stroke="#2b4666"/>
+<text x="275" y="355" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#94c8ff">EXPLORAR</text>
+<rect x="352" y="331" width="139" height="37" rx="18" fill="#322820" stroke="#604737"/>
+<text x="421" y="355" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#ffb687">COMPARTIR</text>
+<g transform="translate(1010 217)">
+<circle r="156" fill="none" stroke="#24364a"/><circle r="117" fill="none" stroke="#32465a" stroke-dasharray="3 10"/>
+<path d="M0-142 123-71v142L0 142-123 71V-71Z" fill="#111f2e" stroke="url(#accent)" stroke-width="2"/>
+<path d="M0-142V0m123-71L0 0m-123-71L0 0m0 0v142" fill="none" stroke="#66efd7" stroke-opacity=".22" stroke-width="2"/>
+<rect x="-87" y="-62" width="174" height="125" rx="18" fill="#0c1522" stroke="#456276"/>
+<path d="m-35-20-23 22 23 22m70-44 23 22-23 22m-25-58L-9 38" fill="none" stroke="url(#accent)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="0" cy="-142" r="7" fill="#66efd7"/><circle cx="123" cy="71" r="7" fill="#ffac79"/><circle cx="-123" cy="71" r="7" fill="#75b6ff"/>
+</g>
+<text x="1010" y="406" text-anchor="middle" font-family="Consolas,monospace" font-size="14" letter-spacing="3" fill="#7d94ac">IDEA → CODE → IMPACT</text>
+</svg>
