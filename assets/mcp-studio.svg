@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="240" viewBox="0 0 1280 240" role="img" aria-labelledby="title">
+<title id="title">MCP Roblox Studio — De una conversación a tu próximo mundo</title>
+<rect x="1" y="1" width="1278" height="238" rx="20" fill="#101c29" stroke="#284251"/>
+<path d="M2 36v168" stroke="#66efd7" stroke-width="4"/>
+<text x="42" y="49" font-family="Consolas,monospace" font-size="14" letter-spacing="3" fill="#66efd7">01 / CREATOR TOOLS</text>
+<text x="40" y="108" font-family="Segoe UI,Arial,sans-serif" font-size="43" font-weight="700" fill="#f0f6ff">MCP Roblox Studio</text>
+<text x="42" y="153" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#b5c6d8">De una conversación a tu próximo mundo.</text>
+<text x="42" y="202" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="1.5" fill="#66efd7">IA + ROBLOX STUDIO</text>
+<g transform="translate(960 119)" fill="none" stroke-linejoin="round">
+<path d="M-115 0h58m116 0h69" stroke="#446d73" stroke-width="2" stroke-dasharray="5 6"/>
+<rect x="-180" y="-40" width="72" height="80" rx="12" fill="#16312f" stroke="#3e8374"/>
+<path d="m-156-13-12 13 12 13m24-26 12 13-12 13" stroke="#66efd7" stroke-width="3"/>
+<path d="m0-55 49 28v55L0 57-49 28v-55Zm0 55 49-27M0 0l-49-27M0 0v57" fill="#152c36" stroke="#66efd7" stroke-width="2"/>
+<rect x="120" y="-37" width="76" height="76" rx="10" fill="#1b2e40" stroke="#4f7597"/>
+<path d="m145-10 23-5 5 23-23 5Z" stroke="#85c4ff" stroke-width="9"/>
+</g></svg>
